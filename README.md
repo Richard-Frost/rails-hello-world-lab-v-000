@@ -1,4 +1,4 @@
-# Rails Hello World
+learn# Rails Hello World
 
 In this lab you will integrate a static route so that the application will render a "Hello World" page.
 
